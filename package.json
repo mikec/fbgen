@@ -1,0 +1,24 @@
+{
+  "name": "fbgen",
+  "version": "v1.0.0",
+  "description": "A javascript utility for generating Facebook test users",
+  "keywords": [
+    "facebook", "test"
+  ],
+  "author": {
+    "name": "Mike Calvanese",
+    "email": "mfcalvanese@gmail.com",
+	  "url": "http://github.com/mikec"
+  },
+  "dependencies": {
+	   "q": "0.8.11"
+  },
+  "main": "fbgen",
+  "engines": {
+    "node": ">=0.8.16"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "http://github.com/mikec/fbgen"
+  }
+}
